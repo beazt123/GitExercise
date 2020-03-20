@@ -89,7 +89,7 @@ rank_points = total_score(H1_scores) + total_score(H2_scores)
 print("\n")
 print("_______________________________")
 print("\n")
-print("A level results slip")
+print("A Level Results Slip")
 print("\n")
 for key,value in H2_subjects.items():
 	print(key[0].upper() + key[1:].lower() + ": " + value)
