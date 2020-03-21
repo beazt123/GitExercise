@@ -97,6 +97,9 @@ for key,value in H1_subjects.items():
 	print(key + ": " + value)
 print("\n")
 print(str(rank_points) + "/90")
+
+
+print("\nUpcoming feature: We can also tell you what university courses you are eligible to join."
 	
 		
 
